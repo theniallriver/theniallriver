@@ -2,8 +2,8 @@
 
 IDK why you're on my personal github, but welcome. 
 
-Currently working at $CRWV running the Identity team.
+I used to build AI to help accelerate the adoption of solar energy. Check out [my patents](https://patents.justia.com/inventor/niall-g-mcquay). 
 
-I build AI products and consult for private equity.
+Currently running an eng team at $CRWV, and consulting for private equity.
 
 Kinda bored of it tho, ngl. I spend most my days hanging out on the lakes of WA and playing my guitar.
