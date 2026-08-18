@@ -1,11 +1,9 @@
-## Hi there 👋
+## Yo, I'm Niall.
 
-I'm Niall McQuay. 
+IDK why you're on my personal github, but welcome. 
 
-I've been coding professionally since 2016, and for fun since 2010.
+Currently working at $CRWV running the Identity team.
 
-I'm an experienced Software Engineer and Engineering Manager. 
+I build AI products and consult for PE.
 
-I'm currently looking for a role as an IC or manager at a fintech company.
-
-I love coding, trading, and building teams.
+Kinda bored of it tho, ngl. I spend most my days hanging out on the lakes of WA and playing my guitar.
